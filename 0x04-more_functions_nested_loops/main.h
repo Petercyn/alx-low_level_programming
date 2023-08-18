@@ -1,1 +1,2 @@
-void print_most_numbers(void);
+  int _isdigit(int c);
+
